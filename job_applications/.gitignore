@@ -1,8 +1,0 @@
-# Visual Studio
-*.suo
-*.user
-*.sln.docstates
-*.csproj
-bin/
-obj/
-.vs/job_applications/
